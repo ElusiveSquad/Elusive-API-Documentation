@@ -1,7 +1,7 @@
 
 # Elusive-API
 
-**If you are looking for the Wrapper please go [here](https://github.com/ElusiveSquad/Elusive-API-Wrapper)**
+**If you are looking for the Wrapper here is the [C# / C++ Wrapper](https://github.com/ElusiveSquad/Elusive-API-Wrapper-CSHARP-CPLUSPLUS) and here is the [Python Wrapper](https://github.com/ElusiveSquad/Elusive-API-Wrapper)**
   
     
     
